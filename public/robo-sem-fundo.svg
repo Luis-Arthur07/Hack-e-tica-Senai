@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210" height="201" viewBox="0 0 210 201" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Cabeça -->
+    <ellipse cx="105" cy="120" rx="90" ry="70" fill="#fff" stroke="#000" stroke-width="10"/>
+    <!-- Rosto -->
+    <ellipse cx="105" cy="120" rx="75" ry="60" fill="#000"/>
+    <!-- Olho direito (aberto) -->
+    <ellipse cx="145" cy="120" rx="17" ry="22" fill="#fff"/>
+    <!-- Olho esquerdo (piscando) -->
+    <path d="M65 120 Q80 125 95 120" stroke="#fff" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <!-- Antena -->
+    <rect x="97" y="35" width="16" height="30" rx="8" fill="#fff" stroke="#000" stroke-width="6"/>
+    <!-- Base da antena -->
+    <ellipse cx="105" cy="65" rx="16" ry="8" fill="#fff" stroke="#000" stroke-width="6"/>
+    <!-- Letreiro MC -->
+    <text x="93" y="60" font-size="22" font-family="Arial" fill="#fff" font-weight="bold" stroke="#000" stroke-width="2">MC</text>
+    <!-- Orelhas -->
+    <ellipse cx="25" cy="120" rx="15" ry="30" fill="#fff" stroke="#000" stroke-width="10"/>
+    <ellipse cx="185" cy="120" rx="15" ry="30" fill="#fff" stroke="#000" stroke-width="10"/>
+  </g>
+</svg>
